@@ -2,4 +2,4 @@
 
 hello child~
 
-it's a test
+这是个测试~
